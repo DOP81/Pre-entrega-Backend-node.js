@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-paludi",
+  "version": "1.0.0",
+  "description": "Pre-entrega proyecto Talento Tech Backend Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Diego Paludi",
+  "license": "ISC",
+  "type": "module"
+}
